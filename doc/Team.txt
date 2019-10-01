@@ -2,3 +2,4 @@ CCID : USERNAME
 rqin1 : rqin1
 jinzhou: beltonhe
 pspiers : pspiersualberta
+smayer : smayer1590
