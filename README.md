@@ -1,3 +1,3 @@
 # MoodSoup
-#CCID : GITHUB USERNAME
-#rqin1 : rqin1
+CCID : GITHUB USERNAME
+rqin1 : rqin1
